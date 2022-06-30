@@ -1,0 +1,31 @@
+Suit02
+executive suit
+840
+t002
+Negro
+0
+280
+p003
+Blanco
+1
+500
+p001
+Blanco
+1
+200
+12
+executive suit
+705
+kk1
+Negro
+0
+280
+112
+Negro
+0
+250
+jj
+Negro
+0
+175
+

@@ -1,0 +1,727 @@
+# depslib dependency file v1.0
+1654915741 source:c:\users\luisk\desktop\c++\tiendaropa\main.cpp
+	<iostream>
+	"main_menu.h"
+
+1655636573 source:c:\users\luisk\desktop\c++\tiendaropa\src\main_menu.cpp
+	"main_menu.h"
+
+1655636573 c:\users\luisk\desktop\c++\tiendaropa\include\main_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<manu_manteniment.h>
+	"user_menu.h"
+
+1654916374 c:\users\luisk\desktop\c++\tiendaropa\include\onlinesale_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1655622635 source:c:\users\luisk\desktop\c++\tiendaropa\src\onlinesale_menu.cpp
+	"onlineSale_menu.h"
+
+1655643669 c:\users\luisk\desktop\c++\tiendaropa\include\user_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"onlineSale_menu.h"
+	"menu_compras.h"
+	<cliente.h>
+	<persona.h>
+	<empresa.h>
+	<archivos.h>
+
+1655643635 source:c:\users\luisk\desktop\c++\tiendaropa\src\user_menu.cpp
+	"user_menu.h"
+
+1655628101 source:c:\users\luisk\desktop\c++\tiendaropa\src\cliente.cpp
+	"cliente.h"
+
+1655628144 c:\users\luisk\desktop\c++\tiendaropa\include\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1655631005 source:c:\users\luisk\desktop\c++\tiendaropa\src\persona.cpp
+	"persona.h"
+
+1655628045 c:\users\luisk\desktop\c++\tiendaropa\include\persona.h
+	"cliente.h"
+
+1655631015 source:c:\users\luisk\desktop\c++\tiendaropa\src\empresa.cpp
+	"empresa.h"
+
+1655628145 c:\users\luisk\desktop\c++\tiendaropa\include\empresa.h
+	"cliente.h"
+
+1655641584 source:c:\users\luisk\desktop\c++\tiendaropa\src\factorysuit.cpp
+	"factorySuit.h"
+	"MangaLarga.h"
+
+1655639728 c:\users\luisk\desktop\c++\tiendaropa\include\factorysuit.h
+	"sportSuit.h"
+	"workSuit.h"
+	"executiveSuit.h"
+	<iostream>
+	<stdlib.h>
+	"string"
+	"CamisAbstr.h"
+	"PantalonAbstr.h"
+	"ZapatoAbstr.h"
+	"archivos.h"
+
+1654926683 source:c:\users\luisk\desktop\c++\tiendaropa\src\camiseta.cpp
+	"Camiseta.h"
+
+1654926660 c:\users\luisk\desktop\c++\tiendaropa\include\camiseta.h
+	"CamisAbstr.h"
+
+1654926551 source:c:\users\luisk\desktop\c++\tiendaropa\src\concuadros.cpp
+	"ConCuadros.h"
+
+1654971429 c:\users\luisk\desktop\c++\tiendaropa\include\concuadros.h
+	"CamisAbstr.h"
+
+1654926772 source:c:\users\luisk\desktop\c++\tiendaropa\src\mangalarga.cpp
+	"MangaLarga.h"
+
+1654971417 c:\users\luisk\desktop\c++\tiendaropa\include\mangalarga.h
+	"CamisAbstr.h"
+
+1655635872 c:\users\luisk\desktop\c++\tiendaropa\include\camisabstr.h
+	<string>
+
+1655635748 source:c:\users\luisk\desktop\c++\tiendaropa\src\camisabstr.cpp
+	"CamisAbstr.h"
+
+1655635983 source:c:\users\luisk\desktop\c++\tiendaropa\src\pantalonabstr.cpp
+	"PantalonAbstr.h"
+
+1655636022 c:\users\luisk\desktop\c++\tiendaropa\include\pantalonabstr.h
+	<string>
+
+1655636043 source:c:\users\luisk\desktop\c++\tiendaropa\src\zapatoabstr.cpp
+	"ZapatoAbstr.h"
+
+1655636078 c:\users\luisk\desktop\c++\tiendaropa\include\zapatoabstr.h
+	<string>
+
+1654927903 source:c:\users\luisk\desktop\c++\tiendaropa\src\devestir.cpp
+	"DeVestir.h"
+
+1654929931 c:\users\luisk\desktop\c++\tiendaropa\include\devestir.h
+	"PantalonAbstr.h"
+
+1654927880 source:c:\users\luisk\desktop\c++\tiendaropa\src\pantaloneta.cpp
+	"Pantaloneta.h"
+
+1654929931 c:\users\luisk\desktop\c++\tiendaropa\include\pantaloneta.h
+	"PantalonAbstr.h"
+
+1654927938 source:c:\users\luisk\desktop\c++\tiendaropa\src\jeams.cpp
+	"Jeams.h"
+
+1654929931 c:\users\luisk\desktop\c++\tiendaropa\include\jeams.h
+	"PantalonAbstr.h"
+
+1654931039 source:c:\users\luisk\desktop\c++\tiendaropa\src\bota.cpp
+	"bota.h"
+
+1654931029 c:\users\luisk\desktop\c++\tiendaropa\include\bota.h
+	"ZapatoAbstr.h"
+
+1654931081 source:c:\users\luisk\desktop\c++\tiendaropa\src\ejecutivo.cpp
+	"ejecutivo.h"
+
+1654931027 c:\users\luisk\desktop\c++\tiendaropa\include\ejecutivo.h
+	"ZapatoAbstr.h"
+
+1654931081 source:c:\users\luisk\desktop\c++\tiendaropa\src\tenni.cpp
+	"tenni.h"
+
+1654931029 c:\users\luisk\desktop\c++\tiendaropa\include\tenni.h
+	"ZapatoAbstr.h"
+
+1655640935 source:c:\users\luisk\desktop\c++\tiendaropa\src\executivesuit.cpp
+	"executiveSuit.h"
+
+1655638687 c:\users\luisk\desktop\c++\tiendaropa\include\executivesuit.h
+	<iostream>
+	<stdlib.h>
+	"AbstractSuit.h"
+	"MangaLarga.h"
+	"DeVestir.h"
+	"ejecutivo.h"
+
+1655638715 c:\users\luisk\desktop\c++\tiendaropa\include\abstractsuit.h
+	<iostream>
+	"string"
+	"CamisAbstr.h"
+	"PantalonAbstr.h"
+	"ZapatoAbstr.h"
+
+1655642437 source:c:\users\luisk\desktop\c++\tiendaropa\src\sportsuit.cpp
+	"sportSuit.h"
+	"Camiseta.h"
+	"tenni.h"
+	"Pantaloneta.h"
+
+1655638737 c:\users\luisk\desktop\c++\tiendaropa\include\sportsuit.h
+	"AbstractSuit.h"
+
+1655642460 source:c:\users\luisk\desktop\c++\tiendaropa\src\worksuit.cpp
+	"workSuit.h"
+	"bota.h"
+	"Jeams.h"
+	"ConCuadros.h"
+
+1655638744 c:\users\luisk\desktop\c++\tiendaropa\include\worksuit.h
+	"AbstractSuit.h"
+
+1655638096 source:c:\users\luisk\desktop\c++\tiendaropa\src\abstractsuit.cpp
+	"AbstractSuit.h"
+
+1655649856 c:\users\luisk\desktop\c++\tiendaropa\include\archivos.h
+	"venta.h"
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<persona.h>
+	<cliente.h>
+	<AbstractSuit.h>
+
+1655649861 source:c:\users\luisk\desktop\c++\tiendaropa\src\archivos.cpp
+	"archivos.h"
+
+1655636567 c:\users\luisk\desktop\c++\tiendaropa\include\manu_manteniment.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"factorySuit.h"
+
+1655636572 source:c:\users\luisk\desktop\c++\tiendaropa\src\manu_manteniment.cpp
+	"manu_manteniment.h"
+
+1655644888 c:\users\luisk\desktop\c++\tiendaropa\include\menu_compras.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<archivos.h>
+	<venta.h>
+
+1655645010 source:c:\users\luisk\desktop\c++\tiendaropa\src\menu_compras.cpp
+	"menu_compras.h"
+
+1655649919 c:\users\luisk\desktop\c++\tiendaropa\include\venta.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<archivos.h>
+
+1655644220 source:c:\users\luisk\desktop\c++\tiendaropa\src\contenedor_ventas.cpp
+	"contenedor_ventas.h"
+
+1655644220 c:\users\luisk\desktop\c++\tiendaropa\include\contenedor_ventas.h
+
+1655648102 source:c:\users\luisk\desktop\c++\tiendaropa\src\venta.cpp
+	"venta.h"
+
+1654915741 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\main.cpp
+	<iostream>
+	"main_menu.h"
+
+1655636573 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\main_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<manu_manteniment.h>
+	"user_menu.h"
+
+1655636567 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\manu_manteniment.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"factorySuit.h"
+
+1655639728 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\factorysuit.h
+	"sportSuit.h"
+	"workSuit.h"
+	"executiveSuit.h"
+	<iostream>
+	<stdlib.h>
+	"string"
+	"CamisAbstr.h"
+	"PantalonAbstr.h"
+	"ZapatoAbstr.h"
+	"archivos.h"
+
+1655638737 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\sportsuit.h
+	"AbstractSuit.h"
+
+1655676978 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\abstractsuit.h
+	<iostream>
+	"string"
+	"CamisAbstr.h"
+	"PantalonAbstr.h"
+	"ZapatoAbstr.h"
+
+1655635872 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\camisabstr.h
+	<string>
+
+1655636022 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\pantalonabstr.h
+	<string>
+
+1655636078 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\zapatoabstr.h
+	<string>
+
+1655638744 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\worksuit.h
+	"AbstractSuit.h"
+
+1655638687 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\executivesuit.h
+	<iostream>
+	<stdlib.h>
+	"AbstractSuit.h"
+	"MangaLarga.h"
+	"DeVestir.h"
+	"ejecutivo.h"
+
+1654971417 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\mangalarga.h
+	"CamisAbstr.h"
+
+1654929931 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\devestir.h
+	"PantalonAbstr.h"
+
+1654931027 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\ejecutivo.h
+	"ZapatoAbstr.h"
+
+1655677963 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\archivos.h
+	"venta.h"
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<persona.h>
+	<cliente.h>
+	<AbstractSuit.h>
+	<executiveSuit.h>
+
+1655677619 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\venta.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<AbstractSuit.h>
+	<time.h>
+
+1655628045 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\persona.h
+	"cliente.h"
+
+1655628144 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1655643669 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\user_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"onlineSale_menu.h"
+	"menu_compras.h"
+	<cliente.h>
+	<persona.h>
+	<empresa.h>
+	<archivos.h>
+
+1654916374 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\onlinesale_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1655668765 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\menu_compras.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<archivos.h>
+	<venta.h>
+
+1655628145 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\empresa.h
+	"cliente.h"
+
+1655638096 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\abstractsuit.cpp
+	"AbstractSuit.h"
+
+1655678073 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\archivos.cpp
+	"archivos.h"
+
+1654931039 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\bota.cpp
+	"bota.h"
+
+1654931029 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\bota.h
+	"ZapatoAbstr.h"
+
+1655635748 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\camisabstr.cpp
+	"CamisAbstr.h"
+
+1654926683 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\camiseta.cpp
+	"Camiseta.h"
+
+1654926660 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\camiseta.h
+	"CamisAbstr.h"
+
+1655628101 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\cliente.cpp
+	"cliente.h"
+
+1654926551 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\concuadros.cpp
+	"ConCuadros.h"
+
+1654971429 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\concuadros.h
+	"CamisAbstr.h"
+
+1655644220 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\contenedor_ventas.cpp
+	"contenedor_ventas.h"
+
+1655644220 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\contenedor_ventas.h
+
+1654927903 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\devestir.cpp
+	"DeVestir.h"
+
+1654931081 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\ejecutivo.cpp
+	"ejecutivo.h"
+
+1655631015 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\empresa.cpp
+	"empresa.h"
+
+1655640935 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\executivesuit.cpp
+	"executiveSuit.h"
+
+1655641584 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\factorysuit.cpp
+	"factorySuit.h"
+	"MangaLarga.h"
+
+1654927938 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\jeams.cpp
+	"Jeams.h"
+
+1654929931 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\jeams.h
+	"PantalonAbstr.h"
+
+1655636573 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\main_menu.cpp
+	"main_menu.h"
+
+1654926772 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\mangalarga.cpp
+	"MangaLarga.h"
+
+1655636572 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\manu_manteniment.cpp
+	"manu_manteniment.h"
+
+1655677578 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\menu_compras.cpp
+	"menu_compras.h"
+
+1655622635 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\onlinesale_menu.cpp
+	"onlineSale_menu.h"
+
+1655635983 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\pantalonabstr.cpp
+	"PantalonAbstr.h"
+
+1654927880 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\pantaloneta.cpp
+	"Pantaloneta.h"
+
+1654929931 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\pantaloneta.h
+	"PantalonAbstr.h"
+
+1655631005 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\persona.cpp
+	"persona.h"
+
+1655642437 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\sportsuit.cpp
+	"sportSuit.h"
+	"Camiseta.h"
+	"tenni.h"
+	"Pantaloneta.h"
+
+1654931029 c:\users\lenovo\desktop\c++\c++\tiendaropa\include\tenni.h
+	"ZapatoAbstr.h"
+
+1654931081 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\tenni.cpp
+	"tenni.h"
+
+1655673609 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\user_menu.cpp
+	"user_menu.h"
+
+1655642460 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\worksuit.cpp
+	"workSuit.h"
+	"bota.h"
+	"Jeams.h"
+	"ConCuadros.h"
+
+1655636043 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\zapatoabstr.cpp
+	"ZapatoAbstr.h"
+
+1655677669 source:c:\users\lenovo\desktop\c++\c++\tiendaropa\src\venta.cpp
+	"venta.h"
+
+1654915741 source:c:\users\luisk\desktop\tiendaropa\main.cpp
+	<iostream>
+	"main_menu.h"
+
+1655850548 c:\users\luisk\desktop\tiendaropa\include\main_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<manu_manteniment.h>
+	"user_menu.h"
+	"directSale_menu.h"
+
+1655862342 c:\users\luisk\desktop\tiendaropa\include\manu_manteniment.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"factorySuit.h"
+	"report_menu.h"
+
+1655639728 c:\users\luisk\desktop\tiendaropa\include\factorysuit.h
+	"sportSuit.h"
+	"workSuit.h"
+	"executiveSuit.h"
+	<iostream>
+	<stdlib.h>
+	"string"
+	"CamisAbstr.h"
+	"PantalonAbstr.h"
+	"ZapatoAbstr.h"
+	"archivos.h"
+
+1655638737 c:\users\luisk\desktop\tiendaropa\include\sportsuit.h
+	"AbstractSuit.h"
+
+1655845255 c:\users\luisk\desktop\tiendaropa\include\abstractsuit.h
+	<iostream>
+	"string"
+	"CamisAbstr.h"
+	"PantalonAbstr.h"
+	"ZapatoAbstr.h"
+
+1655635872 c:\users\luisk\desktop\tiendaropa\include\camisabstr.h
+	<string>
+
+1655636022 c:\users\luisk\desktop\tiendaropa\include\pantalonabstr.h
+	<string>
+
+1655636078 c:\users\luisk\desktop\tiendaropa\include\zapatoabstr.h
+	<string>
+
+1655638744 c:\users\luisk\desktop\tiendaropa\include\worksuit.h
+	"AbstractSuit.h"
+
+1655638687 c:\users\luisk\desktop\tiendaropa\include\executivesuit.h
+	<iostream>
+	<stdlib.h>
+	"AbstractSuit.h"
+	"MangaLarga.h"
+	"DeVestir.h"
+	"ejecutivo.h"
+
+1654971417 c:\users\luisk\desktop\tiendaropa\include\mangalarga.h
+	"CamisAbstr.h"
+
+1654929931 c:\users\luisk\desktop\tiendaropa\include\devestir.h
+	"PantalonAbstr.h"
+
+1654931027 c:\users\luisk\desktop\tiendaropa\include\ejecutivo.h
+	"ZapatoAbstr.h"
+
+1655867776 c:\users\luisk\desktop\tiendaropa\include\archivos.h
+	"venta.h"
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<persona.h>
+	<cliente.h>
+	<empresa.h>
+	<AbstractSuit.h>
+	<executiveSuit.h>
+	<bota.h>
+	<ConCuadros.h>
+	<Jeams.h>
+
+1655838551 c:\users\luisk\desktop\tiendaropa\include\venta.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<AbstractSuit.h>
+	<time.h>
+	<sstream >
+
+1655628045 c:\users\luisk\desktop\tiendaropa\include\persona.h
+	"cliente.h"
+
+1655628144 c:\users\luisk\desktop\tiendaropa\include\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1655643669 c:\users\luisk\desktop\tiendaropa\include\user_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"onlineSale_menu.h"
+	"menu_compras.h"
+	<cliente.h>
+	<persona.h>
+	<empresa.h>
+	<archivos.h>
+
+1655797506 c:\users\luisk\desktop\tiendaropa\include\onlinesale_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1655874114 c:\users\luisk\desktop\tiendaropa\include\menu_compras.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<archivos.h>
+	<venta.h>
+
+1655628145 c:\users\luisk\desktop\tiendaropa\include\empresa.h
+	"cliente.h"
+
+1655845255 source:c:\users\luisk\desktop\tiendaropa\src\abstractsuit.cpp
+	"AbstractSuit.h"
+
+1654931039 source:c:\users\luisk\desktop\tiendaropa\src\bota.cpp
+	"bota.h"
+
+1654931029 c:\users\luisk\desktop\tiendaropa\include\bota.h
+	"ZapatoAbstr.h"
+
+1655635748 source:c:\users\luisk\desktop\tiendaropa\src\camisabstr.cpp
+	"CamisAbstr.h"
+
+1654926683 source:c:\users\luisk\desktop\tiendaropa\src\camiseta.cpp
+	"Camiseta.h"
+
+1654926660 c:\users\luisk\desktop\tiendaropa\include\camiseta.h
+	"CamisAbstr.h"
+
+1655628101 source:c:\users\luisk\desktop\tiendaropa\src\cliente.cpp
+	"cliente.h"
+
+1654926551 source:c:\users\luisk\desktop\tiendaropa\src\concuadros.cpp
+	"ConCuadros.h"
+
+1654971429 c:\users\luisk\desktop\tiendaropa\include\concuadros.h
+	"CamisAbstr.h"
+
+1655644220 source:c:\users\luisk\desktop\tiendaropa\src\contenedor_ventas.cpp
+	"contenedor_ventas.h"
+
+1655644220 c:\users\luisk\desktop\tiendaropa\include\contenedor_ventas.h
+
+1654927903 source:c:\users\luisk\desktop\tiendaropa\src\devestir.cpp
+	"DeVestir.h"
+
+1654931081 source:c:\users\luisk\desktop\tiendaropa\src\ejecutivo.cpp
+	"ejecutivo.h"
+
+1655631015 source:c:\users\luisk\desktop\tiendaropa\src\empresa.cpp
+	"empresa.h"
+
+1655640935 source:c:\users\luisk\desktop\tiendaropa\src\executivesuit.cpp
+	"executiveSuit.h"
+
+1655641584 source:c:\users\luisk\desktop\tiendaropa\src\factorysuit.cpp
+	"factorySuit.h"
+	"MangaLarga.h"
+
+1654927938 source:c:\users\luisk\desktop\tiendaropa\src\jeams.cpp
+	"Jeams.h"
+
+1654929931 c:\users\luisk\desktop\tiendaropa\include\jeams.h
+	"PantalonAbstr.h"
+
+1655850549 source:c:\users\luisk\desktop\tiendaropa\src\main_menu.cpp
+	"main_menu.h"
+
+1654926772 source:c:\users\luisk\desktop\tiendaropa\src\mangalarga.cpp
+	"MangaLarga.h"
+
+1655867018 source:c:\users\luisk\desktop\tiendaropa\src\manu_manteniment.cpp
+	"manu_manteniment.h"
+
+1655874298 source:c:\users\luisk\desktop\tiendaropa\src\menu_compras.cpp
+	"menu_compras.h"
+
+1655797506 source:c:\users\luisk\desktop\tiendaropa\src\onlinesale_menu.cpp
+	"onlineSale_menu.h"
+
+1655635983 source:c:\users\luisk\desktop\tiendaropa\src\pantalonabstr.cpp
+	"PantalonAbstr.h"
+
+1654927880 source:c:\users\luisk\desktop\tiendaropa\src\pantaloneta.cpp
+	"Pantaloneta.h"
+
+1654929931 c:\users\luisk\desktop\tiendaropa\include\pantaloneta.h
+	"PantalonAbstr.h"
+
+1655631005 source:c:\users\luisk\desktop\tiendaropa\src\persona.cpp
+	"persona.h"
+
+1655642437 source:c:\users\luisk\desktop\tiendaropa\src\sportsuit.cpp
+	"sportSuit.h"
+	"Camiseta.h"
+	"tenni.h"
+	"Pantaloneta.h"
+
+1654931029 c:\users\luisk\desktop\tiendaropa\include\tenni.h
+	"ZapatoAbstr.h"
+
+1654931081 source:c:\users\luisk\desktop\tiendaropa\src\tenni.cpp
+	"tenni.h"
+
+1655673609 source:c:\users\luisk\desktop\tiendaropa\src\user_menu.cpp
+	"user_menu.h"
+
+1655854101 source:c:\users\luisk\desktop\tiendaropa\src\venta.cpp
+	"venta.h"
+
+1655642460 source:c:\users\luisk\desktop\tiendaropa\src\worksuit.cpp
+	"workSuit.h"
+	"bota.h"
+	"Jeams.h"
+	"ConCuadros.h"
+
+1655636043 source:c:\users\luisk\desktop\tiendaropa\src\zapatoabstr.cpp
+	"ZapatoAbstr.h"
+
+1655873275 source:c:\users\luisk\desktop\tiendaropa\src\archivos.cpp
+	"archivos.h"
+
+1655850056 c:\users\luisk\desktop\tiendaropa\include\directsale_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"onlineSale_menu.h"
+	"menu_compras.h"
+	<cliente.h>
+	<persona.h>
+	<empresa.h>
+	<archivos.h>
+
+1655852856 source:c:\users\luisk\desktop\tiendaropa\src\directsale_menu.cpp
+	"directSale_menu.h"
+
+1655868593 c:\users\luisk\desktop\tiendaropa\include\report_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"onlineSale_menu.h"
+	"menu_compras.h"
+	<cliente.h>
+	<persona.h>
+	<empresa.h>
+	<archivos.h>
+
+1655873909 source:c:\users\luisk\desktop\tiendaropa\src\report_menu.cpp
+	"report_menu.h"
+

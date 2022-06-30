@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="src\executiveSuit.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="457" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="src\menu_compras.cpp" open="1" top="1" tabpos="10" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="338" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\MangaLarga.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="228" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\empresa.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="47" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\ConCuadros.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="87" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\ejecutivo.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\bota.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="118" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\sportSuit.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2456" topLine="41" />
+		</Cursor>
+	</File>
+	<File name="include\report_menu.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="433" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\PantalonAbstr.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="203" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\factorySuit.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="444" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\workSuit.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2436" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="include\DeVestir.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="48" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\manu_manteniment.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="168" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\onlineSale_menu.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Jeams.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="42" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\MangaLarga.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="136" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\user_menu.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="471" topLine="129" />
+		</Cursor>
+	</File>
+	<File name="include\directSale_menu.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="264" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\CamisAbstr.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="33" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\persona.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="47" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\PantalonAbstr.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="589" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\directSale_menu.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5794" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\cliente.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="594" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="include\tenni.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="251" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\persona.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="182" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\manu_manteniment.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="766" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\archivos.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="941" topLine="38" />
+		</Cursor>
+	</File>
+	<File name="src\Pantaloneta.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="26" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\bota.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="242" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\main_menu.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="737" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\empresa.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="184" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\CamisAbstr.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="89" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Camiseta.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="27" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\cliente.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1174" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\user_menu.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="571" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Camiseta.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\archivos.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7704" topLine="356" />
+		</Cursor>
+	</File>
+	<File name="include\menu_compras.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="489" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\AbstractSuit.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="834" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="src\ZapatoAbstr.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="193" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\ejecutivo.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="81" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\AbstractSuit.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2707" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\venta.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="563" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\main_menu.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="187" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="124" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\report_menu.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3211" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="include\executiveSuit.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="316" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Jeams.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="93" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\ZapatoAbstr.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="332" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\factorySuit.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2262" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="include\venta.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="159" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Pantaloneta.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="54" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\sportSuit.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="278" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\workSuit.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="273" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\onlineSale_menu.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="290" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

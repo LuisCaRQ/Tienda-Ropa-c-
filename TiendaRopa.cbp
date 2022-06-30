@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TiendaRopa" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TiendaRopa" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TiendaRopa" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/AbstractSuit.h" />
+		<Unit filename="include/CamisAbstr.h" />
+		<Unit filename="include/Camiseta.h" />
+		<Unit filename="include/ConCuadros.h" />
+		<Unit filename="include/DeVestir.h" />
+		<Unit filename="include/Jeams.h" />
+		<Unit filename="include/MangaLarga.h" />
+		<Unit filename="include/PantalonAbstr.h" />
+		<Unit filename="include/Pantaloneta.h" />
+		<Unit filename="include/ZapatoAbstr.h" />
+		<Unit filename="include/archivos.h" />
+		<Unit filename="include/bota.h" />
+		<Unit filename="include/cliente.h" />
+		<Unit filename="include/contenedor_ventas.h" />
+		<Unit filename="include/directSale_menu.h" />
+		<Unit filename="include/ejecutivo.h" />
+		<Unit filename="include/empresa.h" />
+		<Unit filename="include/executiveSuit.h" />
+		<Unit filename="include/factorySuit.h" />
+		<Unit filename="include/main_menu.h" />
+		<Unit filename="include/manu_manteniment.h" />
+		<Unit filename="include/menu_compras.h" />
+		<Unit filename="include/onlineSale_menu.h" />
+		<Unit filename="include/persona.h" />
+		<Unit filename="include/report_menu.h" />
+		<Unit filename="include/sportSuit.h" />
+		<Unit filename="include/tenni.h" />
+		<Unit filename="include/user_menu.h" />
+		<Unit filename="include/venta.h" />
+		<Unit filename="include/workSuit.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/AbstractSuit.cpp" />
+		<Unit filename="src/CamisAbstr.cpp" />
+		<Unit filename="src/Camiseta.cpp" />
+		<Unit filename="src/ConCuadros.cpp" />
+		<Unit filename="src/DeVestir.cpp" />
+		<Unit filename="src/Jeams.cpp" />
+		<Unit filename="src/MangaLarga.cpp" />
+		<Unit filename="src/PantalonAbstr.cpp" />
+		<Unit filename="src/Pantaloneta.cpp" />
+		<Unit filename="src/ZapatoAbstr.cpp" />
+		<Unit filename="src/archivos.cpp" />
+		<Unit filename="src/bota.cpp" />
+		<Unit filename="src/cliente.cpp" />
+		<Unit filename="src/contenedor_ventas.cpp" />
+		<Unit filename="src/directSale_menu.cpp" />
+		<Unit filename="src/ejecutivo.cpp" />
+		<Unit filename="src/empresa.cpp" />
+		<Unit filename="src/executiveSuit.cpp" />
+		<Unit filename="src/factorySuit.cpp" />
+		<Unit filename="src/main_menu.cpp" />
+		<Unit filename="src/manu_manteniment.cpp" />
+		<Unit filename="src/menu_compras.cpp" />
+		<Unit filename="src/onlineSale_menu.cpp" />
+		<Unit filename="src/persona.cpp" />
+		<Unit filename="src/report_menu.cpp" />
+		<Unit filename="src/sportSuit.cpp" />
+		<Unit filename="src/tenni.cpp" />
+		<Unit filename="src/user_menu.cpp" />
+		<Unit filename="src/venta.cpp" />
+		<Unit filename="src/workSuit.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
